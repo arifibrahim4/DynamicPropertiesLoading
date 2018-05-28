@@ -1,0 +1,7 @@
+cloud.aws.credentials.accessKey: <AWS Token>
+cloud.aws.credentials.secretKey: <AWS Secret>
+cloud.aws.credentials.instanceProfile: true
+cloud.aws.region.static: us-east-1
+
+#application.name: S3_Dynamic_Reloading
+#application.version: Version-5.0
